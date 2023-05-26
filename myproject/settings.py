@@ -30,6 +30,7 @@ INSTALLED_APPS = [
 
     # Apps
     'accounts',
+    "emails",
 
     # 3rd Party
     'rest_framework',
